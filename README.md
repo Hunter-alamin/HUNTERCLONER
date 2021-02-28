@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevillHaunter&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevillHunter&show_icons=true)
 # BasicCommands
 ◑pkg install python
 
