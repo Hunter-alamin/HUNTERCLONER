@@ -12,10 +12,13 @@ pip2 install requests
 
 pip2 install mechanize
 
+# COMMANDS :
 git clone https://github.com/DevillHunter/HUNTERCLONER
 
 cd HUNTERCLONER
 
+
+# RUN :
 python2 ALl.py
 
 
