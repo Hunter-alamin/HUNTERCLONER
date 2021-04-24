@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevillHunter&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunter-alamin&show_icons=true)
 # BASIC COMMANDS
 
 ````
@@ -17,7 +17,7 @@ pip2 install mechanize
 
 # COMMANDS :
 ````
-git clone https://github.com/DevillHunter/HUNTERCLONER
+git clone https://github.com/Hunter-alamin/HUNTERCLONER
 
 cd HUNTERCLONER
 ````
@@ -36,7 +36,7 @@ USERNAME : ALAMINKHAN
 PASSWORD : HUNTERBOY
 ````
 # CONTACT
-<b>🔰🔰🔰🔰</b> </br> <br>[![Github](https://img.shields.io/badge/Github-HUNTERBOY_ALAMIN-green?style=flat-square&logo=githublogoColor=blue&labelColor=blue)](https://github.com/DevillHunter)<br> [![Facebook](https://img.shields.io/badge/Facebook-HUNTERBOY_ALAMIN-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/alaminkhan.60)
+<b>🔰🔰🔰🔰</b> </br> <br>[![Github](https://img.shields.io/badge/Github-HUNTERBOY_ALAMIN-green?style=flat-square&logo=githublogoColor=blue&labelColor=blue)](https://github.com/Hunter-alamin)<br> [![Facebook](https://img.shields.io/badge/Facebook-HUNTERBOY_ALAMIN-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/alaminkhan.60)
 
 <b>🔰🔰🔰🔰<b>
 
